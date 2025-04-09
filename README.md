@@ -32,7 +32,7 @@ Customer segmentation and trend analysis.
 Data storytelling to communicate insights effectively.
 
 ## How to View
-Power BI Dashboard: Download the .twbx file from this repository and open it in Powe Desktop.
+Power BI Dashboard: Download the .twbx file from this repository and open it in Power BI Desktop.
 Excel Report: Download the Ecommerce_Sales_Data.xlsx file to review raw data and pivot table analyses.
 
 ## Key Insights
